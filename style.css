@@ -1,0 +1,27 @@
+nav {
+    align-items: center;
+    border: 1px solid;
+    border-radius: 5px;
+    text-align: center;
+    display: flex;
+    height: 50px;
+    padding: 20px;
+    justify-content: space-between;
+    background-color: lavender;
+}
+
+h1 {
+    text-align: center;
+    text-transform: uppercase;
+}
+
+body {
+    max-width: auto;
+    font-family: sans-serif;
+    width: auto;
+    padding: 0px;
+    border: 1px solid gray;
+    border-radius: 10px;
+    text-transform: lowercase;
+
+}
